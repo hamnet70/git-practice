@@ -20,3 +20,6 @@ What does seem more intuitive than HTML is:
 I appreciate, though, what I'm learning from [this tutorial](https://github.com/DHRI-Curriculum/git/blob/master/sections/markdown.md).
 
 Though Markdown may not be wowing me, I'm certainly wowed by git, which promises to get me one step closer to my goal of adopting habits that lead to clean projects. (Having said that, I do love the Visual Code interface here, with the preview to my right.)
+
+## Additions for Practice
+Since my initial commit, I've been eager to add another. Here it is.
